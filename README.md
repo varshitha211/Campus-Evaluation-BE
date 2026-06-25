@@ -39,7 +39,7 @@ Installation
 Clone the repository and install dependencies for each project.
 
 git clone <repository-url>
-cd 24PA5A4501
+cd Campus-Evaluation-BE
 
 cd logging-middleware
 npm install
